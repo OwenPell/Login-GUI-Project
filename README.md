@@ -6,6 +6,8 @@ functionalities with a simple GUI.
 **Login System**: Users can log in by providing their username and password.
 -
 **Signup System**: New users can register by creating a username and password.
+-
+**Simple GUI**: An easy to use GUI made with QT framework. 
 ## How It Works
 1. Users are prompted to choose between three options:
 - Login
