@@ -14,3 +14,8 @@ functionalities with a simple GUI.
 memory).
 3. For signup, the system saves the new username and password in the database.
 4. The program continues running until the user chooses to exit.
+## Project Collaborators
+- Owen Pell
+- Jareth Cone
+- Zaida Sims
+- Austin Schomer
